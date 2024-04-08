@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+    bk-api-services:
+        build:
+            context: ../MinimalAPIService
+            dockerfile: Dockerfile
+            args:
+                NET_VERSION: "net7.0" # The version used to build the project
+                ASPNETCORE_VERSION: "7.0" # The version used to build the image
+        image: bk/api-services:local-dev
+        volumes:
+            - "../MinimalAPIService/bin/Debug/net7.0:/app"
+        ports:
+            - "51200:80"
+        environment:
+            ASPNETCORE_ENVIRONMENT: Production
