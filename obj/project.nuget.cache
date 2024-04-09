@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ELtnRnYHE+ReAJnugFFd+f9j2f04/knbYPxfqrD1azSUJRW8OmbTNpBihjggQLdcs+yDFBYrH+ko/5pqih9cLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BhuvaneshKamaraj\\Documents\\MyRepo\\MinimalAPIService\\MinimalAPIService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BhuvaneshKamaraj\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\BhuvaneshKamaraj\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\BhuvaneshKamaraj\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\BhuvaneshKamaraj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\BhuvaneshKamaraj\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\BhuvaneshKamaraj\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\BhuvaneshKamaraj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\BhuvaneshKamaraj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
